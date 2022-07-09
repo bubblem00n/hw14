@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Poppins-regular";
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Poppins-bold";
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: "Libre-bold";
+    src: url(../fonts/LibreFranklin-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Libre";
+    src: url(../fonts/LibreFranklin-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Pacifico";
+    src: url(../fonts/Pacifico-Regular.ttf);
+}
